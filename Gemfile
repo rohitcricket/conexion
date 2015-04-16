@@ -51,3 +51,6 @@ gem 'simple_form'
 
 # Devise
 gem 'devise'
+
+# Gravatarify
+gem 'gravatarify', '~> 3.0.0'
