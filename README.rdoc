@@ -1,4 +1,4 @@
 == README
 
-This is a social network built on Ruby on Rails.
+Modelling Friendships in a Ruby on Rails Web Application.
 
